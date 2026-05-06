@@ -4,6 +4,8 @@ This project builds and compares several machine‑learning models to detect cre
 
 The goal is not only to get good accuracy, but also to understand why the models flag a transaction as fraud, and how reliable and fast these explanations are.
 
+The dataset can be downloded from: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download](url)
+
 1. What this project does ￼
 
 At a high level, the script:
